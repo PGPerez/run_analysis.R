@@ -21,7 +21,7 @@ Getting and Cleaning Data Course Project
 ##
 ## merge activity levels
 ##
-## Created "1st Tidy Data by "extracting mean and standard deviation for featutes 
+## Created "1st Tidy Data by "extracting mean and standard deviation for features 
 ##
 
 ## Examine Tidy Data 1 using head and str functions
